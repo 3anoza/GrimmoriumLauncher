@@ -1,2 +1,4 @@
-rootProject.name = 'LauncherServer'
+rootProject.name="LauncherServer"
 
+includeBuild '../LauncherCore'
+includeBuild '../LauncherAPI'
